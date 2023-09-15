@@ -2,10 +2,14 @@
 
 ![hqdefault](https://github.com/Pidgeon44/skills-communicate-using-markdown/assets/113184294/14f7e6a0-d205-4703-abc0-127f8c468ee5)
 
+``` javascript
 var myVar = "Hello, world!";
+```
 
+```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
 - [x] List okay
 - [x] This item is maybe completed
